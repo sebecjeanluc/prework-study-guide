@@ -2,6 +2,8 @@
 
 Prework repository for bootcamp
 
+https://sebecjeanluc.github.io/prework-study-guide/
+
 # <Study Guide Webpage>
 
 ## Description
